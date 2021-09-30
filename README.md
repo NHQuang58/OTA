@@ -1,9 +1,8 @@
 # GINNO_GTRACK
-Member: Nguyen Tuan Trung, Nguyen Hong Quang, Do Vu Thanh Hien
-This project belongs to Ginnovation Company
+Firmware OTA demo version
 
 Author: NHQUang58
-Brief: OTA project, demo version 1
+Brief: OTA project use Flash external, module GSM, Stm32F401
 
 # Memory layout
 In this project, i use 1 app area, start address at 0x08020000.
